@@ -1,4 +1,4 @@
-# CALC::OS — Futuristic Calculator
+# CALCULATOR — Futuristic Calculator
 
 A sleek, single-file HTML calculator with a cyberpunk / retro-futuristic aesthetic. Zero dependencies, zero build tools — just open and use.
 
